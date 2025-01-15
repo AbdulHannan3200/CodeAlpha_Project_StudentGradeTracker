@@ -22,5 +22,5 @@ To use this project:
 2. Open the project in your preferred IDE or text editor.
 3. Compile and run the program:
    ```bash
-   javac ClassGradeTracker.java
-   java ClassGradeTracker
+   javac StudentGradeTracker.java
+   java StudentGradeTracker
